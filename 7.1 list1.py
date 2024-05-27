@@ -48,6 +48,19 @@ while i<len(a):
             c=c+1
         j+=1
     print(f"{a[i]}this name contains {c} vowels")
-    i+=1
+    i+=1    
+
+
+'''a=['robert','anuj','mishraji','jadhav','nair','more','jagtap','ingle']
+for i in a:
+    c=0
+    for j in i:
+        if j in 'aeiou':
+            c=c+1
+    print(f"{i}this name contains {c} vowels")'''
+
             
-        
+            
+    
+            
+     
