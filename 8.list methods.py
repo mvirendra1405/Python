@@ -32,3 +32,7 @@ ab=[1,2,3,3,3]
 print(ab.count(3))
 
 print(ab.index(3))
+
+a=[1,2,3,4,5,6,7,8]
+a.clear()
+print(a)
