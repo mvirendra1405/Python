@@ -41,13 +41,20 @@ for i in a:
     for j in i:
         print(j)'''
     
-a=[[['robert','mishraji','anuj','rajith','jadhav']]]
+'''a=[[['robert','mishraji','anuj','rajith','jadhav']]]
 i=0
-while():
-    print(a)
+while i<len(a[0][0]):
+    print(a[0][0][i])
+    i+=1'''
+
+a=[[1,2,3,4],[5,6,7,8],[9,10,11,12]]
+i=0
+while i<len(a):
+    j=0
+    while j<len(a[i]):
+        print(a[i][j])
+        j+=1
     i+=1
-
-
 
 
 
