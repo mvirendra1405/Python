@@ -15,7 +15,12 @@ print(a/b)
 print(a//b)
 print(a%b)'''
 
-a=35
+'''a=35
 b=45
 a1=a+50
-print(a1+b)
+print(a1+b)'''
+
+a=30.5
+b=55
+c=a+b
+print(c)
