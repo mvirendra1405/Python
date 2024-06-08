@@ -3,6 +3,11 @@ if 1 == 1:
 else:
     print(False)
 
+if 1!=1:
+    print(True)
+else:
+    print(False)
+
 
 
 
