@@ -20,7 +20,17 @@ b=45
 a1=a+50
 print(a1+b)'''
 
-a=30.5
+'''a=30.5
 b=55
 c=a+b
-print(c)
+print(c)'''
+
+
+a=45
+b=65
+a1=a+65
+b1=b+45
+print(a1+b1)
+
+
+
