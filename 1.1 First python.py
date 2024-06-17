@@ -26,11 +26,15 @@ c=a+b
 print(c)'''
 
 
-a=45
+'''a=45
 b=65
 a1=a+65
 b1=b+45
-print(a1+b1)
+print(a1+b1)'''
+
+x=['banana','apple','mango']
+for i in x:
+    print(i)
 
 
 
