@@ -27,7 +27,7 @@ print(c)'''
 
 a=30.5
 b=55
-c=a*b
+c=a//b
 print(c)
 
 
