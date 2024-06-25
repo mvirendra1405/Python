@@ -4,7 +4,12 @@ if (x<10):
 else:
     print("TY")
 
-if(X):
+if(x):
     print("Done")
 else:
     print("TY")
+
+if(" "):
+    print ("done")
+else:
+    print("Ty")
