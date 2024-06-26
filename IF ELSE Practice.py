@@ -13,3 +13,8 @@ if(" "):
     print ("done")
 else:
     print("Ty")
+
+if(4):
+    print("Done")
+else:
+    print("Ty")
