@@ -18,3 +18,17 @@ if(4):
     print("Done")
 else:
     print("Ty")
+
+if(""):
+    print("Done")
+else:
+    print("Ty")
+
+
+
+
+
+
+
+
+
