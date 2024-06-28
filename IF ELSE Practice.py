@@ -24,6 +24,10 @@ if(""):
 else:
     print("Ty")
 
+if(None):
+    print("Done")
+else:
+    print("Ty")
 
 
 
