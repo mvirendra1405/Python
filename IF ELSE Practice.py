@@ -29,6 +29,10 @@ if(None):
 else:
     print("Ty")
 
+if(0):
+    print("Done")
+else:
+    print("Ty")
 
 
 
