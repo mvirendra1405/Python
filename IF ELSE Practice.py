@@ -34,6 +34,10 @@ if(0):
 else:
     print("Ty")
 
+if(Pass):
+    print("Done")
+else:
+    print("Ty")
 
 
 
