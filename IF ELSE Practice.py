@@ -1,4 +1,4 @@
-x=5
+'''x=5
 if (x<10):
     print("Done")
 else:
@@ -37,8 +37,12 @@ else:
 if(Pass):
     print("Done")
 else:
-    print("Ty")
+    print("Ty")'''
 
+if(Continue):
+    print("Done")
+else:
+    print("Ty")
 
 
 
