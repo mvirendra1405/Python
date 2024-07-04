@@ -39,12 +39,15 @@ if(Pass):
 else:
     print("Ty")'''
 
-if(Continue):
+##if(Continue):
+##    print("Done")
+##else:
+##    print("Ty")
+
+if("Virendra"):
     print("Done")
 else:
     print("Ty")
-
-
 
 
 
