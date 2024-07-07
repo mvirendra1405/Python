@@ -81,6 +81,7 @@ class student:
         print('My name is',name)
         print('roll_no is',roll_no)
         print('I am a python developer')
+        print('I am a Django developer')
 
     def display(self):
         print('Java developer')
