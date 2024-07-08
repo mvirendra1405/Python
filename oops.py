@@ -77,17 +77,18 @@
 ##a.demo('mech')
 
 class student:
-    def show(self,name,roll_no):
+    def show(self,name,roll_no,dept):
         print('My name is',name)
         print('roll_no is',roll_no)
+        print('dept is',dept)
         print('I am a python developer')
-        print('I am a Django developer')
+        
 
     def display(self):
         print('Java developer')
 
 s=student()
-s.show('virendra',14)
+s.show('virendra',14,'software developer')
 s.display()
 
 
