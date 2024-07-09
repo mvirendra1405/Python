@@ -76,22 +76,43 @@
 ####A.demo('k')
 ##a.demo('mech')
 
-class student:
-    def show(self,name,roll_no,dept):
-        print('My name is',name)
-        print('roll_no is',roll_no)
-        print('dept is',dept)
-        print('I am a python developer')
-        
+##class student:
+##    def show(self,name,roll_no,dept):
+##        print('My name is',name)
+##        print('roll_no is',roll_no)
+##        print('dept is',dept)
+##        print('I am a python developer')
+##        
+##
+##    def display(self):
+##        print('Java developer')
+##
+##s=student()
+##s.show('virendra',14,'software developer')
+##s.display()
 
-    def display(self):
-        print('Java developer')
+#Inheritance:
+#one class can inherit the properties and method of another class this process is known as inheritance.
 
-s=student()
-s.show('virendra',14,'software developer')
-s.display()
+class A:
+    a=10
 
+    def show(s):
+        print('python developer')
 
+class B(A):
+    b=20
+
+    def display(s):
+        print(s.b,c.b,c.a,B.a,B.b)
+        print('java developer')
+
+##a=A()
+##a.show()
+
+c=B()
+c.display()
+#b.show
 
 
     
