@@ -94,26 +94,49 @@
 #Inheritance:
 #one class can inherit the properties and method of another class this process is known as inheritance.
 
+##class A:
+##    a=10
+##
+##    def show(s):
+##        print('python developer')
+##
+##class B(A):
+##    b=20
+##
+##    def display(s):
+##        print(s.b,c.b,c.a,B.a,B.b)
+##        print('java developer')
+##
+####a=A()
+####a.show()
+##
+##c=B()
+##c.display()
+###b.show
+
+##2)The inheritance in which a class can be derived from another derived class is known as Multilevel inheritance.
 class A:
     a=10
-
     def show(s):
-        print('python developer')
-
+        print('Grand parent method called')
+        
 class B(A):
     b=20
-
     def display(s):
-        print(s.b,c.b,c.a,B.a,B.b)
-        print('java developer')
+        print('parent method called')
 
-##a=A()
-##a.show()
+class C(B):
+    c=30
+    def data(s):
+        print(s.a+s.b+s.c)
+        print('child method called')
 
-c=B()
-c.display()
-#b.show
-
+x=C()
+##print(x.c)
+x.data()
+##x.display()
+##x.show()
+##    
 
     
 
