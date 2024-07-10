@@ -115,28 +115,28 @@
 ###b.show
 
 ##2)The inheritance in which a class can be derived from another derived class is known as Multilevel inheritance.
-class A:
-    a=10
-    def show(s):
-        print('Grand parent method called')
-        
-class B(A):
-    b=20
-    def display(s):
-        print('parent method called')
-
-class C(B):
-    c=30
-    def data(s):
-        print(s.a+s.b+s.c)
-        print('child method called')
-
-x=C()
-##print(x.c)
-x.data()
-##x.display()
-##x.show()
-##    
+##class A:
+##    a=10
+##    def show(s):
+##        print('Grand parent method called')
+##        
+##class B(A):
+##    b=20
+##    def display(s):
+##        print('parent method called')
+##
+##class C(B):
+##    c=30
+##    def data(s):
+##        print(s.a+s.b+s.c)
+##        print('child method called')
+##
+##x=C()
+####print(x.c)
+##x.data()
+####x.display()
+####x.show()
+    
 
     
 
