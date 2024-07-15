@@ -44,10 +44,10 @@ else:
 ##else:
 ##    print("Ty")
 
-if("Virendra"):
-    print("Done")
-else:
-    print("Ty")
+##if("Virendra"):
+##    print("Done")
+##else:
+##    print("Ty")
 
 if("4586"):
     print("Done")
