@@ -8,6 +8,9 @@ print(int(a))
 c=2+3j
 print(type(c))
 
+d=2+3j
+print(type(d))
+
 ab=11
 print(float(ab))
 
