@@ -49,7 +49,13 @@ else:
 ##else:
 ##    print("Ty")
 
-if("4786"):
+##if("4786"):
+##    print("Done")
+##else:
+##    print("Ty")
+
+if(4786):
     print("Done")
 else:
     print("Ty")
+
