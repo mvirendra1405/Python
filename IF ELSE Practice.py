@@ -54,8 +54,14 @@ else:
 ##else:
 ##    print("Ty")
 
-if(4786):
+##if(4786):
+##    print("Done")
+##else:
+##    print("Ty")
+
+x=5
+if (x>10):
     print("Done")
 else:
-    print("Ty")
+    print("TY")
 
