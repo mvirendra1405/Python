@@ -6,8 +6,8 @@ print(type(b))
 print(type(c))'''
 
 #arithmetic operator
-a=20
-b=30
+a=2
+b=3
 print(a+b)
 print(a-b)
 print(a*b)
@@ -15,6 +15,7 @@ print(a**b)
 print(a/b)
 print(a//b)
 print(a%b)
+print(a**b+b)
 
 '''a=35
 b=45
