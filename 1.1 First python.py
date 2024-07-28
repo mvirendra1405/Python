@@ -16,6 +16,7 @@ print(a/b)
 print(a//b)
 print(a%b)
 print(a**b+b)
+print(a**b-b)
 
 '''a=35
 b=45
