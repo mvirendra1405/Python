@@ -17,6 +17,7 @@ print(a//b)
 print(a%b)
 print(a**b+b)
 print(a**b-b)
+print(a**a+b**a)
 print(a**b*b)
 print(a+b**b)
 
