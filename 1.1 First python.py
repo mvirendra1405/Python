@@ -1,51 +1,32 @@
-'''a=30
-b=25.5
-c="Virendra"
-print(type(a))
-print(type(b))
-print(type(c))'''
+##import keyword
+##print(keyword.kwlist)
+##print(len(keyword.kwlist))
 
-#arithmetic operator
-a=2
-b=3
-print(a+b)
-print(a-b)
-print(a*b)
-print(a**b)
-print(a/b)
-print(a//b)
-print(a%b)
-print(a**b+b)
-print(a**b-b)
-print(a**a+b**a)
-print(a**b*b)
-print(a+b**b)
+"""x="123"
+print(type(x))
+y=int(x)
+z=float(x)
+print(type(y))
+print(type(z))
+print(z)"""
 
-'''a=35
-b=45
-a1=a+50
-print(a1+b)'''
+'''x=input("Enter first number:")
+y=input("Enter first number:")
+print(x+y)
+print(type(x+y))'''
 
-'''a=30.5
-b=55
-c=a+b
-print(c)'''
+'''x=int(input("Enter first number:"))
+y=int(input("Enter first number:"))
+print(x+y)
+print(type(x+y))'''
 
-'''a=30.5
-b=55
-c=a//b
-print(c)'''
+#Program for Area of circle
+r=float(input("Enter a radius:"))
+pi=3.14
+result=pi*r*r
+print("Area of circle is:",result)
 
 
-'''a=45
-b=65
-a1=a+65
-b1=b+45
-print(a1+b1)'''
-
-'''x=['banana','apple','mango']
-for i in x:
-    print(i)'''
 
 
 
