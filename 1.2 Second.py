@@ -22,9 +22,14 @@ elif b>a:
 else:
     print("both are equal") '''
 
-x="virendra"
+'''x="virendra"
+for i in x:
+    print("hello")'''
+
+x="virendra,himanshu"
 for i in x:
     print("hello")
+
 
 a=[8,3,5,6,1,2,7,11,9]
 print(a[-1:-4])
