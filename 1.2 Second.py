@@ -26,9 +26,9 @@ else:
 for i in x:
     print("hello")'''
 
-x="virendra,himanshu"
-for i in x:
-    print("hello")
+a=[8,3,5,6,1,2,7,11,9]
+a[3]=25
+print(a)
 
 
 a=[8,3,5,6,1,2,7,11,9]
