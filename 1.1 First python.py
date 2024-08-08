@@ -17,8 +17,8 @@ print(type(x+y))'''
 
 x=int(input("Enter first number:"))
 y=int(input("Enter first number:"))
-print(x*y)
-print(type(x*y))
+print(x-y)
+print(type(x-y))
 
 '''#Program for Area of circle
 r=float(input("Enter a radius:"))
