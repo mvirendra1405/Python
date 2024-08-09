@@ -15,16 +15,22 @@ y=input("Enter first number:")
 print(x+y)
 print(type(x+y))'''
 
-x=int(input("Enter first number:"))
+'''x=int(input("Enter first number:"))
 y=int(input("Enter first number:"))
 print(x-y)
-print(type(x-y))
+print(type(x-y))'''
 
 '''#Program for Area of circle
 r=float(input("Enter a radius:"))
 pi=3.14
 result=pi*r*r
 print("Area of circle is:",result)'''
+
+#Program for Area of rectangle
+l=int(input("Enter a length:"))
+w=int(input("Enter a width:"))
+result=l*w
+print("Area of rectangle is:",result)
 
 
 
