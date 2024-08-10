@@ -26,13 +26,15 @@ pi=3.14
 result=pi*r*r
 print("Area of circle is:",result)'''
 
-#Program for Area of rectangle
+'''#Program for Area of rectangle
 l=int(input("Enter a length:"))
 w=int(input("Enter a width:"))
 result=l*w
-print("Area of rectangle is:",result)
+print("Area of rectangle is:",result)'''
 
-
+A=[10,20,30,40,50,60,70]
+B=A[-5:-1]
+print(B)
 
 
 
