@@ -22,9 +22,9 @@ elif b>a:
 else:
     print("both are equal") '''
 
-'''x="virendra"
+x="himanshu"
 for i in x:
-    print("hello")'''
+    print("himanshu")
 
 a=[8,3,5,6,1,2,7,11,9]
 a[6]=25
