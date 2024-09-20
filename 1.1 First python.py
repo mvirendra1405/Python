@@ -32,8 +32,8 @@ w=int(input("Enter a width:"))
 result=l*w
 print("Area of rectangle is:",result)'''
 
-A=[10,20,30,40,50,60,70]
-B=A[-5:-1]
+A=[10,20,30,40,50,60,70,80]
+B=A[3:-1]
 print(B)
 
 A=[10,20,80,40,60,75,70]
