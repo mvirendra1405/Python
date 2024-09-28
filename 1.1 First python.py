@@ -33,7 +33,7 @@ result=l*w
 print("Area of rectangle is:",result)'''
 
 A=[10,20,30,40,50,60,70,80]
-B=A[3:-2]
+B=A[3:-1]
 print(B)
 
 C=[10,20,80,40,60,75,70]
