@@ -34,18 +34,18 @@ print(a[::-1])
 print(a.count(2))'''
 
 
-a=(1,1,2,3,3,4,3)
+n=(1,1,2,3,3,4,3)
 
-for i in a:
+for i in n:
     print(i)
 
 i=0
-while i<len(a):
-    print(a[i])
+while i<len(n):
+    print(n[i])
     i+=1
 
-for i in range(len(a)):
-    print(a[i])
+for i in range(len(n)):
+    print(n[i])
 
 
 
