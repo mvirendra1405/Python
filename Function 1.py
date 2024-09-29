@@ -9,4 +9,4 @@ def data(name,age,city):
 def data(name,age,city):
     return f"my name is {name} my age is {age} and i live in {city}"
 
-print(data(age=45,city='Thane',name='ABC'))
+print(data(age=45,city='Ghatkopar',name='XYZ'))
