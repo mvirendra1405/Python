@@ -24,7 +24,7 @@ else:
 
 x="devansh"
 for i in x:
-    print("dipali")
+    print("devansh")
 
 a=[8,3,5,6,1,2,7,11,9]
 a[6]=25
